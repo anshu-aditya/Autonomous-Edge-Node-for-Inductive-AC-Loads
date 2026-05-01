@@ -82,10 +82,6 @@ It leverages an ESP32 microcontroller combined with TinyML to detect anomalous c
 
 ---
 
-## 🎥 Demo
-
-## [Demo Video](demo/demo_video_link.md)
-
 ---
 
 ## 📌 Future Improvements
@@ -99,5 +95,4 @@ It leverages an ESP32 microcontroller combined with TinyML to detect anomalous c
 
 ## 👨‍💻 Author
 
-**Anshu Aditya**  
-DevOps Engineer | Embedded Systems Enthusiast  
+**Anshu Aditya** 
